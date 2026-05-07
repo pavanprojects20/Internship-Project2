@@ -1,9 +1,15 @@
+[ALERT] Suspicious Login Attempt Detected:
 2026-05-07 03:55:19.387902 | IP: 127.0.0.1 | USERNAME: admin | PASSWORD: admin123
+
+[ALERT] Suspicious Login Attempt Detected:
 2026-05-07 05:23:27.039285 | IP: 127.0.0.1 | USERNAME: admin | PASSWORD: admin123
+
+[ALERT] Suspicious Login Attempt Detected:
 2026-05-07 05:23:27.041532 | IP: 127.0.0.1 | USERNAME: root | PASSWORD: toor
-2026-05-07 05:23:27.043251 | IP: 127.0.0.1 | USERNAME: iotuser | PASSWORD: iot123
-2026-05-07 05:23:27.044819 | IP: 127.0.0.1 | USERNAME: guest | PASSWORD: guest123
+
+[ALERT] Suspicious Login Attempt Detected:
 2026-05-07 05:55:53.279376 | IP: 127.0.0.1 | USERNAME: admin | PASSWORD: admin123
+
+[ALERT] Suspicious Login Attempt Detected:
 2026-05-07 05:55:53.281387 | IP: 127.0.0.1 | USERNAME: root | PASSWORD: toor
-2026-05-07 05:55:53.283161 | IP: 127.0.0.1 | USERNAME: iotuser | PASSWORD: iot123
-2026-05-07 05:55:53.284663 | IP: 127.0.0.1 | USERNAME: guest | PASSWORD: guest123
+
