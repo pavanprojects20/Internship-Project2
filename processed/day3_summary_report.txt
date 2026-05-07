@@ -1,0 +1,10 @@
+
+Total Login Attempts: 1
+
+Unique IP Addresses:
+1
+
+Usernames Attempted:
+<StringArray>
+['admin']
+Length: 1, dtype: str
