@@ -1,0 +1,13 @@
+
+========== IoT Honeypot Dashboard ==========
+
+Total Login Attempts : 1
+
+Unique IP Addresses  : 1
+
+Unique Usernames     : 1
+
+Most Targeted Username:
+admin
+
+============================================
