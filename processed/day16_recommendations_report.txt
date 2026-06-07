@@ -1,0 +1,6 @@
+
+========== SECURITY RECOMMENDATIONS ==========
+
+
+[HIGH] Enable account lockout policies.
+[HIGH] Investigate suspicious IP activity.
