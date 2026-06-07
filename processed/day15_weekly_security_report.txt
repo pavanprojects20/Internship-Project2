@@ -1,0 +1,16 @@
+
+========== WEEKLY SECURITY REPORT ==========
+
+Modules Included:
+
+✓ Attacker Ranking
+✓ Attack Source Analysis
+✓ Brute Force Detection
+✓ Severity Scoring
+
+Generated Reports:
+
+[FOUND] processed/day11_top_attackers_report.txt
+[FOUND] processed/day12_geo_report.txt
+[FOUND] processed/day13_bruteforce_report.txt
+[FOUND] processed/day14_severity_report.txt
