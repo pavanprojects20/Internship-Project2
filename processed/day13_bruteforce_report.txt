@@ -1,0 +1,4 @@
+
+========== BRUTE FORCE DETECTION REPORT ==========
+
+[ALERT] Possible Brute Force Attack from 127.0.0.1 | Attempts: 5
